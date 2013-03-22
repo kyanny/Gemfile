@@ -1,4 +1,4 @@
-source 'https://rubygems.org/
+source 'https://rubygems.org/'
 
 gem 'gem-src'
 gem 'gem-browse'
